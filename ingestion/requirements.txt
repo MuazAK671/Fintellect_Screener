@@ -1,0 +1,8 @@
+pandas
+requests
+psycopg2-binary
+python-dotenv
+feedparser
+yfinance
+beautifulsoup4
+lxml
