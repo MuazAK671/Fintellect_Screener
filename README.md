@@ -1,4 +1,5 @@
 Fintellect Screener & Stock Predictor
+
 An intelligent financial analytics platform that combines machine learning time-series forecasting with robust technical indicators to evaluate, screen, and predict stock market movements.
 
 Fintellect Screener transitions stock filtering from a static, historical lookup into a forward-looking predictive engine. By training complex regression algorithms and Deep Learning networks on historical OHLC (Open, High, Low, Close) and Volume data fetched directly via Yahoo Finance, the platform identifies high-probability trade setups and projects future stock trajectories.
